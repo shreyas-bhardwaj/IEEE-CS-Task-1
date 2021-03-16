@@ -1,0 +1,44 @@
+*{
+    background-image: url(./RESOURCES/Task1-master/Background.png);
+}
+body{
+    color: white;
+    align-items: center;
+    
+}
+h3{
+    color: turquoise;
+}
+h1{
+    color: turquoise;
+    font-size: 50px;
+}
+.flex_container{
+    display: flex;
+    
+}
+.flex_container>div{
+    margin: 0;
+    padding: 20px;
+    font-size: 30px;
+}
+.fbk{
+    position: absolute;
+    right: 220px;
+    bottom: 10px;
+}
+.git{
+    position: absolute;
+    right: 120px;
+    bottom: 10px;
+}
+.loc{
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+}
+.ham{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
